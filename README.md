@@ -1,1 +1,0 @@
-# Banking-System-Simulator-Spring-Boot-Monolith-with-MongoDB-
